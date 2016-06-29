@@ -1,0 +1,13 @@
+{
+  a=4
+  b=this is a string
+  c=3.4
+  d=tRue
+}
+
+{
+  a=5
+  b=another string
+  c=4.6
+  d=TrUe
+}

@@ -1,0 +1,13 @@
+{
+  apasta4
+  bpastathis is a string
+  cpasta3.4
+  dpastatrue
+}
+gobbledegook
+{
+  apasta5
+  bpastaanother string
+  cpasta4.6
+  dpastafalse
+}
